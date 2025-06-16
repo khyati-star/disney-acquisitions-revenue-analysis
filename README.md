@@ -1,11 +1,8 @@
 # Disney Acquisitions & Revenue Analysis  
 **A Research Project on the Financial Impact of Strategic Mergers and Acquisitions (1957–2024)**
+![disney-logo](https://github.com/user-attachments/assets/767f2d8b-e1cb-40bd-afc7-d3120732a459)
 
 ---
-<p align="center">
-  <img src="https://raw.githubusercontent.com/k/disney-sql-analysis/main/assets/disney-logo.png" alt="Disney Logo" width="150"/>
-  
-</p>
 
 ## Abstract  
 This study investigates how The Walt Disney Company’s major acquisitions have shaped its revenue trajectory over the past six decades. By constructing a relational SQL database of acquisition events and annual revenues, we apply rigorous validation checks and advanced analytical queries—such as window functions and Common Table Expressions (CTEs)—to quantify year‑over‑year growth and assess the financial significance of landmark deals (e.g., Pixar, Marvel, 21st Century Fox).
